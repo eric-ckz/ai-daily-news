@@ -19,10 +19,6 @@ import java.util.Comparator;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-import java.util.concurrent.Future;
-import java.util.concurrent.TimeUnit;
 import java.util.stream.Collectors;
 
 @Service
@@ -51,27 +47,11 @@ public class ReportPipelineService {
                     .sorted(Comparator.comparingDouble(NewsItem::getScore).reversed())
                     .toList();
 
-            int translateLimit = Math.min(normalized.size(), 5);
-            ExecutorService pool = Executors.newFixedThreadPool(3);
-            try {
-                List<Future<?>> futures = new ArrayList<>();
-                for (int i = 0; i < translateLimit; i++) {
-                    NewsItem item = normalized.get(i);
-                    futures.add(pool.submit(() -> {
-                        item.setTitleZh(translationService.translateToChinese(item.getTitle(), 300));
-                        item.setContentZh(translationService.translateToChinese(item.getContent(), 700));
-                    }));
-                }
-
-                for (Future<?> f : futures) {
-                    try {
-                        f.get(90, TimeUnit.SECONDS);
-                    } catch (Exception ignored) {
-                        // Timeout/error: keep original text as fallback
-                    }
-                }
-            } finally {
-                pool.shutdownNow();
+            int translateLimit = Math.min(normalized.size(), 3);
+            for (int i = 0; i < translateLimit; i++) {
+                NewsItem item = normalized.get(i);
+                item.setTitleZh(translationService.translateToChinese(item.getTitle(), 220));
+                item.setContentZh(translationService.translateToChinese(item.getContent(), 450));
             }
 
             for (NewsItem item : normalized) {
