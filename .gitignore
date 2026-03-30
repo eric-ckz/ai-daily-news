@@ -1,12 +1,19 @@
 # Java
 backend/target/
+*.class
 *.log
+
+# Java artifacts
+*.jar
+*.war
+*.nar
+*.ear
 
 # Node
 frontend/node_modules/
 frontend/dist/
 
-# IDE
+# IDE / OS
 .idea/
 .vscode/
 .DS_Store
