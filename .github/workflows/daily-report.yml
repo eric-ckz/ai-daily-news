@@ -38,6 +38,7 @@ jobs:
           LLM_CHAT_PATH: ${{ secrets.LLM_CHAT_PATH }}
           LLM_AUTH_HEADER: ${{ secrets.LLM_AUTH_HEADER }}
           LLM_AUTH_SCHEME: ${{ secrets.LLM_AUTH_SCHEME }}
+          LLM_TIMEOUT_SECONDS: '15'
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
           OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}

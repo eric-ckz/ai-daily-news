@@ -70,11 +70,20 @@ public class TranslationService {
                                     .put("content", input)))
                     .toString();
 
+            int timeoutSeconds = 20;
+            try {
+                String timeoutEnv = envFirst("LLM_TIMEOUT_SECONDS");
+                if (timeoutEnv != null && !timeoutEnv.isBlank()) {
+                    timeoutSeconds = Math.max(5, Math.min(120, Integer.parseInt(timeoutEnv.trim())));
+                }
+            } catch (Exception ignored) {
+            }
+
             HttpRequest request = HttpRequest.newBuilder()
                     .uri(URI.create(baseUrl + chatPath))
                     .header(authHeader, authScheme + " " + apiKey)
                     .header("Content-Type", "application/json")
-                    .timeout(Duration.ofSeconds(60))
+                    .timeout(Duration.ofSeconds(timeoutSeconds))
                     .POST(HttpRequest.BodyPublishers.ofString(payload))
                     .build();
 
