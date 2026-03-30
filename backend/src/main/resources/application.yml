@@ -1,0 +1,15 @@
+app:
+  output-path: ../frontend/public/data/daily-summary.json
+  max-per-category: 8
+  days-back: 1
+  categories:
+    - name: AI Agents
+      query: "AI agent OR autonomous agent OR multi-agent systems latest news"
+    - name: LLMs
+      query: "large language model OR LLM release OR model benchmark news"
+    - name: AI Product
+      query: "AI product launch OR generative AI startup OR enterprise AI tool"
+    - name: Open Source AI
+      query: "open source AI model OR open-source LLM OR GitHub AI release"
+    - name: Infra & Chips
+      query: "NVIDIA OR AI chip OR inference infrastructure OR datacenter AI"
