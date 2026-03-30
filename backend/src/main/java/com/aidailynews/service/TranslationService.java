@@ -22,12 +22,40 @@ public class TranslationService {
     public String translateToChinese(String text, int maxLength) {
         if (text == null || text.isBlank()) return "";
 
-        String apiKey = System.getenv("OPENAI_API_KEY");
+        String apiKey = envFirst("LLM_API_KEY", "OPENAI_API_KEY");
         if (apiKey == null || apiKey.isBlank()) {
             return text;
         }
 
-        String model = System.getenv().getOrDefault("OPENAI_MODEL", "gpt-4o-mini");
+        String model = envFirst("LLM_MODEL", "OPENAI_MODEL");
+        if (model == null || model.isBlank()) {
+            model = "gpt-4o-mini";
+        }
+
+        String baseUrl = envFirst("LLM_BASE_URL", "OPENAI_BASE_URL");
+        if (baseUrl == null || baseUrl.isBlank()) {
+            baseUrl = "https://api.openai.com/v1";
+        }
+        baseUrl = baseUrl.replaceAll("/+$", "");
+
+        String chatPath = envFirst("LLM_CHAT_PATH");
+        if (chatPath == null || chatPath.isBlank()) {
+            chatPath = "/chat/completions";
+        }
+        if (!chatPath.startsWith("/")) {
+            chatPath = "/" + chatPath;
+        }
+
+        String authHeader = envFirst("LLM_AUTH_HEADER");
+        if (authHeader == null || authHeader.isBlank()) {
+            authHeader = "Authorization";
+        }
+
+        String authScheme = envFirst("LLM_AUTH_SCHEME");
+        if (authScheme == null || authScheme.isBlank()) {
+            authScheme = "Bearer";
+        }
+
         String input = text.length() > maxLength ? text.substring(0, maxLength) : text;
 
         try {
@@ -43,8 +71,8 @@ public class TranslationService {
                     .toString();
 
             HttpRequest request = HttpRequest.newBuilder()
-                    .uri(URI.create("https://api.openai.com/v1/chat/completions"))
-                    .header("Authorization", "Bearer " + apiKey)
+                    .uri(URI.create(baseUrl + chatPath))
+                    .header(authHeader, authScheme + " " + apiKey)
                     .header("Content-Type", "application/json")
                     .timeout(Duration.ofSeconds(60))
                     .POST(HttpRequest.BodyPublishers.ofString(payload))
@@ -60,5 +88,13 @@ public class TranslationService {
         } catch (IOException | InterruptedException e) {
             return input;
         }
+    }
+
+    private String envFirst(String... keys) {
+        for (String k : keys) {
+            String v = System.getenv(k);
+            if (v != null && !v.isBlank()) return v;
+        }
+        return null;
     }
 }

@@ -24,8 +24,21 @@
 在 GitHub 仓库 Secrets 中配置：
 
 - `TAVILY_API_KEY`（必需）
-- `OPENAI_API_KEY`（推荐，用于中文翻译；未配置则回退为原文）
+
+### 自定义模型网关（推荐）
+- `LLM_API_KEY`（必需，用于翻译与汇总）
+- `LLM_BASE_URL`（必需，例如 `https://your-gateway.example.com/v1`）
+- `LLM_MODEL`（必需，例如 `custom-wududu-edu-kg/gpt-5.3-codex`）
+- `LLM_CHAT_PATH`（可选，默认 `/chat/completions`）
+- `LLM_AUTH_HEADER`（可选，默认 `Authorization`）
+- `LLM_AUTH_SCHEME`（可选，默认 `Bearer`）
+
+### OpenAI 兼容回退（可选）
+- `OPENAI_API_KEY`
+- `OPENAI_BASE_URL`（可选，默认 `https://api.openai.com/v1`）
 - `OPENAI_MODEL`（可选，默认 `gpt-4o-mini`）
+
+> 优先级：`LLM_*` > `OPENAI_*`。
 
 ## 本地运行
 ```bash
