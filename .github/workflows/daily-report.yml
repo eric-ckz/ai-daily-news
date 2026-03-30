@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -20,6 +20,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Java
         uses: actions/setup-java@v4
@@ -43,6 +45,18 @@ jobs:
           OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
           OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
         run: mvn -q spring-boot:run
+
+      - name: Commit daily markdown report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports/*.md frontend/public/data/daily-summary.json || true
+          if git diff --cached --quiet; then
+            echo "No report changes to commit"
+          else
+            git commit -m "chore(report): daily news $(date -u +%F)"
+            git push
+          fi
 
       - name: Setup Node
         uses: actions/setup-node@v4

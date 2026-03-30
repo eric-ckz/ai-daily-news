@@ -9,6 +9,7 @@ import com.fasterxml.jackson.databind.SerializationFeature;
 import org.springframework.stereotype.Service;
 
 import java.io.File;
+import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.time.OffsetDateTime;
@@ -81,8 +82,10 @@ public class ReportPipelineService {
                 3500
         );
 
+        String date = OffsetDateTime.now(ZoneId.of("Asia/Shanghai")).format(DateTimeFormatter.ISO_LOCAL_DATE);
+
         DailyReport report = new DailyReport();
-        report.setDate(OffsetDateTime.now(ZoneId.of("Asia/Shanghai")).format(DateTimeFormatter.ISO_LOCAL_DATE));
+        report.setDate(date);
         report.setGeneratedAt(OffsetDateTime.now(ZoneId.of("Asia/Shanghai")).toString());
         report.setSummaryZh(dailySummary);
         report.setHighlights(highlights);
@@ -92,6 +95,53 @@ public class ReportPipelineService {
         if (out.getParent() != null) Files.createDirectories(out.getParent());
         mapper.writeValue(new File(out.toString()), report);
 
+        writeMarkdownReport(report, date);
+
         System.out.println("Daily report generated: " + out.toAbsolutePath());
+    }
+
+    private void writeMarkdownReport(DailyReport report, String date) throws Exception {
+        String markdownDir = app.getMarkdownDir();
+        if (markdownDir == null || markdownDir.isBlank()) {
+            markdownDir = "../reports";
+        }
+
+        Path dir = Path.of(markdownDir);
+        Files.createDirectories(dir);
+        Path mdPath = dir.resolve("daily-news-" + date + ".md");
+
+        StringBuilder sb = new StringBuilder();
+        sb.append("# AI Daily News - ").append(date).append("\n\n");
+        sb.append("生成时间：").append(report.getGeneratedAt()).append("\n\n");
+
+        sb.append("## 当日全分类汇总\n\n");
+        sb.append(report.getSummaryZh() == null ? "" : report.getSummaryZh()).append("\n\n");
+
+        sb.append("## 今日重点\n\n");
+        int idx = 1;
+        for (NewsItem item : report.getHighlights()) {
+            sb.append(idx++).append(". **[").append(item.getCategory()).append("] ")
+                    .append(safe(item.getTitleZh(), item.getTitle())).append("**\n");
+            sb.append("   - 摘要：").append(safe(item.getContentZh(), item.getContent())).append("\n");
+            sb.append("   - 链接：").append(item.getUrl()).append("\n\n");
+        }
+
+        for (Map.Entry<String, List<NewsItem>> entry : report.getCategories().entrySet()) {
+            sb.append("## ").append(entry.getKey()).append("（").append(entry.getValue().size()).append("）\n\n");
+            int cidx = 1;
+            for (NewsItem item : entry.getValue()) {
+                sb.append(cidx++).append(". **").append(safe(item.getTitleZh(), item.getTitle())).append("**\n");
+                sb.append("   - 摘要：").append(safe(item.getContentZh(), item.getContent())).append("\n");
+                sb.append("   - 原文：").append(item.getUrl()).append("\n");
+                sb.append("   - Score：").append(String.format("%.2f", item.getScore())).append("\n\n");
+            }
+        }
+
+        Files.writeString(mdPath, sb.toString(), StandardCharsets.UTF_8);
+        System.out.println("Markdown report generated: " + mdPath.toAbsolutePath());
+    }
+
+    private String safe(String preferred, String fallback) {
+        return (preferred != null && !preferred.isBlank()) ? preferred : (fallback == null ? "" : fallback);
     }
 }

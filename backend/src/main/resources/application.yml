@@ -1,5 +1,6 @@
 app:
   output-path: ../frontend/public/data/daily-summary.json
+  markdown-dir: ../reports
   max-per-category: 8
   days-back: 1
   categories:

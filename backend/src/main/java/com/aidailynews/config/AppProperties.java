@@ -11,12 +11,16 @@ import java.util.List;
 @ConfigurationProperties(prefix = "app")
 public class AppProperties {
     private String outputPath;
+    private String markdownDir;
     private int maxPerCategory = 8;
     private int daysBack = 1;
     private List<CategoryConfig> categories = new ArrayList<>();
 
     public String getOutputPath() { return outputPath; }
     public void setOutputPath(String outputPath) { this.outputPath = outputPath; }
+
+    public String getMarkdownDir() { return markdownDir; }
+    public void setMarkdownDir(String markdownDir) { this.markdownDir = markdownDir; }
 
     public int getMaxPerCategory() { return maxPerCategory; }
     public void setMaxPerCategory(int maxPerCategory) { this.maxPerCategory = maxPerCategory; }

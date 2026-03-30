@@ -52,5 +52,10 @@ npm run dev
 
 后端默认会把数据输出到 `frontend/public/data/daily-summary.json`。
 
+## 产物
+- 网站数据：`frontend/public/data/daily-summary.json`
+- 每日 Markdown 报告：`reports/daily-news-YYYY-MM-DD.md`
+
 ## GitHub Pages
 工作流会在每天 `00:00 UTC`（北京时间 08:00）自动执行并发布。
+并自动将当日 Markdown 日报提交到仓库。
