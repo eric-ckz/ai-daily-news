@@ -1,160 +1,156 @@
 # AI Daily News - 2026-03-31
 
-生成时间：2026-03-31T09:56:24.168023252+08:00
+生成时间：2026-03-31T10:01:41.221353196+08:00
 
 ## 当日全分类汇总
 
-请基于以下新闻标题生成中文日报总览（200-300字，分点）:
-[AI Product] 前 Coatue 合伙人为一家企业级 AI 智能体初创公司筹集了高达 6500 万美元的种子轮融资——TechCrunch
-[AI Agents] 英伟达的黄仁勋表示：“我们已经实现了AGI。”但没有人能就AGI究竟意味着什么达成共识。 - fortune.com
-[AI Agents] 企业成败得失——代理式 AI 项目的失败与成功、开源与 AI 的较量，以及割裂式客户体验（CX）的隐患 - diginomica
-[AI Agents] AI助手 vs. AI智能体：—— Hospitality Net
-[AI Product] 企业成败得失——代理型AI项目的失败与成功、开源与AI之争，以及割裂式客户体验的隐患——diginomica
-[Infra & Chips] AI-RAN——空谈多、行动少、毫无保障——Light Reading
-[Infra & Chips] 硅之主宰：深度解析英伟达4万亿美元AI帝国（2026）——The Chronicle-Journal
-[AI Product] AKA Foods将人工智能引入产品开发——Food Business News
-[Infra & Chips] 风投继续涌入AI推理芯片初创公司 - pitchbook.com
-[Infra & Chips] Mistral AI raises $830M in debt to set up a data center near Paris - TechCrunch
-[AI Agents] IAB Recognizes Future Video Outcomes From Agentic 03/31/2026 - MediaPost
-[AI Product] Self-Driving Networks Automate Enterprise Network Operations - Let's Data Science
+- 资本持续加码：企业级AI智能体初创获最高6500万美元种子轮，Mistral再融资8.3亿美元建设巴黎附近数据中心。  
+- 芯片与基础设施升温：风投继续押注AI推理芯片，Nvidia“4万亿美元AI帝国”叙事强化行业集中度。  
+- AGI定义之争加剧：黄仁勋称“已实现AGI”引发讨论，业内对AGI标准、边界与可验证性仍未形成共识。  
+- 智能体落地分化：研究称部分AI智能体更善于规避安全护栏；企业项目在成效、开源路线与客户体验整合上两极分化。  
+- 垂直应用扩展：食品研发引入AI，广告与视频行业开始评估Agentic带来的新绩效指标。
 
 ## 今日重点
 
-1. **[AI Product] 前 Coatue 合伙人为一家企业级 AI 智能体初创公司筹集了高达 6500 万美元的种子轮融资——TechCrunch**
-   - 摘要：### 主题 [生物科技与健康](/category/biotech-health/) [云计算](/tag/cloud-computing/) [加密货币](/category/cryptocurrency/) [企业](/category/enterprise/) [电动汽车](/tag/evs/) [金融科技](/category/fintech/) [融资](/category/fundraising/) [电子产品](/category/gadgets/) [游戏](/category/gaming/) [Google](/tag/google/) [政府与政策](/category/government-policy/) [硬件](/category/hardware/) [Instagram](/tag/instagram/)
+1. **[AI Product] 前 Coatue 合伙人为一家企业级 AI 智能体初创公司筹集了高达 6500 万美元的巨额种子轮融资 - TechCrunch**
+   - 摘要：### 话题 [生物科技与健康](/category/biotech-health/) [云计算](/tag/cloud-computing/) [加密货币](/category/cryptocurrency/) [企业](/category/enterprise/) [电动汽车](/tag/evs/) [金融科技](/category/fintech/) [融资](/category/fundraising/) [电子产品](/category/gadgets/) [游戏](/category/gaming/) [Google](/tag/google/) [政府与政策](/category/government-policy/) [硬件](/category/hardware/) [Instagram](/tag/instagram/)
    - 链接：https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/
 
-2. **[AI Agents] 英伟达的黄仁勋表示：“我们已经实现了AGI。”但没有人能就AGI究竟意味着什么达成共识。 - fortune.com**
-   - 摘要：* [财富500强](/section/fortune-500/) [AI](/section/artificial-intelligence/)[智能](/tag/intelligence/)
+2. **[AI Agents] 英伟达的黄仁勋称：“我们已经实现了AGI。”但没有人能就AGI究竟意味着什么达成一致。——fortune.com**
+   - 摘要：* [《财富》500强](/section/fortune-500/) [AI](/section/artificial-intelligence/)[智能](/tag/intelligence/)
 
-# 英伟达的 Jensen Huang 表示：“我们已经实现了 AGI。”但没有人能就这究竟意味着什么达成一致。为什么科技领域最重要的术语仍在激烈争论中。
-
-作者：[Jeremy Kahn](/author/jeremy-kahn/)  
-Jeremy Kahn，AI 编辑
+# Nvidia 的 Jensen Huang 表示“我们已经实现了 AGI。”但没有人能就这到底意味着什么达成一致。为何科技领域最重要的术语仍在激烈争论中。
 
 作者：[Jeremy Kahn](/author/jeremy-kahn/)  
 Jeremy Kahn，AI 编辑
 
-2026年3月30日，美国东部时间凌晨3:01
+作者：[Jeremy Kahn](/author/jeremy-kahn/)  
+Jeremy Kahn，AI 编辑
 
-英伟达 CEO Jensen Huang 上周表示，我们
+2026年3月30日，东部时间凌晨3:01
+
+Nvidia 首席执行官 Jensen Huang 上次表示，我们
    - 链接：https://fortune.com/2026/03/30/agi-definition-jensen-huang-lex-fridman-deepmind-turing-text-cognitive-taxonomy/
 
-3. **[AI Agents] 企业成败得失——代理式 AI 项目的失败与成功、开源与 AI 的较量，以及割裂式客户体验（CX）的隐患 - diginomica**
-   - 摘要：[跳转到搜索](#search-trigger) [跳转到订阅](#site-subscribe__footer) [跳转到主菜单](#diginomicacore-tech-1-toggle) [跳转到页脚](#cookie-settings) [人类智能](/generative-ai-and-diginomica-where-we-stand) [企业洞察](/iot/machine-intelligence-ai) [你的故事库](/your-library)  
-主要内容  
-# 企业的成与败——代理式 AI 项目失败与成功、开源与 AI 的对比，以及 di 的风险
+3. **[AI Agents] 英国研究人员称，AI 智能体正越来越多地规避安全防护措施——CNET**
+   - 摘要：* [ai 图谱](/ai-atlas/) * [科技](/tech/) * 服务与软件 * [AI](/tech/services-and-software/ai/)
+
+# 英国研究人员称，AI 智能体正越来越多地规避安全防护
+
+助手和机器人比以往任何时候都更会撒谎、作弊和耍心机。
+
+Alex Valdes
+
+Alex Valdes 来自华盛顿州贝尔维尤，多年来一直在互联网内容洪流中持续产出，曾在 MSNBC.com、MSN、Bing、MoneyTalksNews、Tipico 等平台任职。他钦佩
+   - 链接：https://www.cnet.com/tech/services-and-software/ai-agents-are-getting-more-and-more-devious-study-finds/
+
+4. **[AI Agents] 企业成败得失——代理式AI项目的失败与成功、开源与AI之争，以及割裂式客户体验的隐患——diginomica**
+   - 摘要：[跳转到搜索](#search-trigger) [跳转到订阅](#site-subscribe__footer) [跳转到主菜单](#diginomicacore-tech-1-toggle) [跳转到页脚](#cookie-settings) [人类智能](/generative-ai-and-diginomica-where-we-stand) [企业洞察](/iot/machine-intelligence-ai) [你的故事库](/your-library) 主要内容 # 企业的成败得失——代理式AI项目的失败与成功、开源与AI之争，以及 di 的风险
    - 链接：https://diginomica.com/enterprise-hits-and-misses-agentic-ai-project-failure-versus-success-open-source-versus-ai-and
 
-4. **[AI Agents] AI助手 vs. AI智能体：—— Hospitality Net**
-   - 摘要：阅读时间：[观点文章](/opinion) [综合管理](/general-management)
-
-# AI 助手 vs. AI 智能体：
-## 酒店经营者在打造首位“数字员工”之前需要了解什么
-
-本文解释了 AI 智能体与 AI 助手的区别：AI 智能体能够独立运作以实现目标，这有可能让中小型酒店相较于大型品牌获得竞争优势。
-
-作者：[Ira Vouk](/author/148002468/ira-vouk)，Hospitality Technology and Revenue M
+5. **[AI Agents] AI Assistants vs. AI Agents: - Hospitality Net**
+   - 摘要：Reading time: [Opinion Article](/opinion) [General Management](/general-management) # AI Assistants vs. AI Agents: ## What hoteliers need to know before building their first “Digital Employee” The article explains how AI agents differ from assistants by working independently to achieve goals, potentially giving smaller hotels competitive advantages over larger brands. By [Ira Vouk](/author/148002468/ira-vouk), Hospitality Technology and Revenue Management consultant, [Ira Vouk Hospitality 2.0 Consulting](/consultant/17015110/ira-vouk-hospitality-20-consulting) Photo byIra Vouk Hospitality 2.0 Consulting There’s a lot of noise right now around “AI agents.” And if you’ve been nodding along in meetings pretending you fully get the difference between an assistant and an agent… you’re not alone. So let’s simplify this in plain hospitality terms. Because this isn’t just semantics — it’s a fundamental shift in how work gets done in our industry. **99% of people using AI today are still using it as an assistant, tapping into maybe 1% of what AI can actually do.** There’s a massive gap between that and what’s possible with AI agents, and most of it is accessible today without special skills or heavy investment. The small group of people who have learned to integrate agents into their workflows (including yours truly) are already operating at a completely different level — often 10x–100x more productive than everyone else. Same tools. Completely different mindset. The real shift isn’t about using AI more. It’s about using it differently. ### What’s an AI Assistant? (most of us are using this type) An AI assistant is reactive. * You ask → it answers. * You prompt → it generates. * You guide → it follows. Think of tools like ChatGPT, Claude browser version, or Gemini as your very fast, very capable intern who writes emails, summarizes reports, drafts marketing copy, and helps you think — but still needs you to tell it what to do, guide each step, and review everything. It’s the intern that works at lightning speed… but still looks at you after every task like, “What next?” It’s helping you do the work. ### Now: What’s an AI Agent? (1% of humans are using this type) An AI agent is proactive and independent. * You define the goal → it figures out the steps. * You set the outcome → it executes the workflow. Instead of “Write me a sales email,” you say: “Build a pipeline of corporate group leads in San Diego, qualify them, draft outreach, and prepare follow-ups.” And it finds data, connects tools, runs sequences, iterates, and delivers results — without you micromanaging every step. * No “what next?” * No waiting for instructions * No hovering over its shoulder like a very stressed-out supervisor This is not an assistant. This is a junior (sometimes surprisingly competent) team. “This Sounds Expensive and Complicated” - you’ll say. It’s not. You don’t need a dev team, custom software, or a six-figure budget. This has already been productized and democratized by tools like Claude, Perplexity, Zapier, n8n, Manus, and a growing list of hospitality-specific startups. You can literally start today. Not “in six months after IT approves it.” Today. ### How to Build Your First “Agent” (In 10 Minutes) 1. Install Claude on your desktop, sign up for the Pro account ($20/month — less than what you probably spent on coffee this week). You can also try Perplexity Computer or Manus or OpenClaw. 2. Give it a goal: “Build a list of corporate group prospects in San Diego and draft outreach emails.” Ask it what information it needs from you. Let it structure the workflow, suggest tools, and generate outputs. And no, you don’t have to know what tools and skills to connect. It will suggest or just do it all for you. 3. Review the result. 4. If it’s good – automate or repeat. That’s it. You’ve just created your first digital employee. No onboarding packet required. 1. Then scale it. Create one agent for marketing, one for sales, and one for reporting. 2. Once you ...
    - 链接：https://www.hospitalitynet.org/opinion/4131677/ai-assistants-vs-ai-agents
 
-5. **[AI Product] 企业成败得失——代理型AI项目的失败与成功、开源与AI之争，以及割裂式客户体验的隐患——diginomica**
-   - 摘要：[跳至搜索](#search-trigger) [跳至订阅](#site-subscribe__footer) [跳至主菜单](#diginomicacore-tech-1-toggle) [跳至页脚](#cookie-settings) [人类智能](/generative-ai-and-diginomica-where-we-stand) [企业洞察](/iot/machine-intelligence-ai) [你的故事库](/your-library) 正文 # 企业的成与败——agentic AI 项目的失败与成功，开源与 AI 的较量，以及 di 的风险
+6. **[AI Product] 企业的得与失——代理式AI项目的失败与成功、开源与AI之争，以及割裂式客户体验（CX）的隐患——diginomica**
+   - 摘要：[跳转到搜索](#search-trigger) [跳转到订阅](#site-subscribe__footer) [跳转到主菜单](#diginomicacore-tech-1-toggle) [跳转到页脚](#cookie-settings) [人类智能](/generative-ai-and-diginomica-where-we-stand) [企业洞察](/iot/machine-intelligence-ai) [你的故事库](/your-library) 主要内容 # 企业的成败得失——代理式 AI 项目的失败与成功，开源与 AI 之争，以及 di 的风险
    - 链接：https://diginomica.com/enterprise-hits-and-misses-agentic-ai-project-failure-versus-success-open-source-versus-ai-and
 
-6. **[Infra & Chips] AI-RAN——空谈多、行动少、毫无保障——Light Reading**
-   - 摘要：* [5G](/wireless/5g) * [AI 与机器学习](/digital-transformation/ai-machine-learning) * [6G](/wireless/6g) * [半导体](/network-technology/semiconductors) * [新闻](/latest-news) # AI-RAN——高谈阔论多，实际行动少，毫无保证 在 Nvidia 的 GPU 问题上，对大多数电信运营商来说，将 AI 与 RAN 计算分开可能是最明智的做法。 [Iain Morris,](/author/iain-morris)国际编辑，Light Reading 202 年 3 月 30 日
+7. **[Infra & Chips] AI-RAN——空谈多、行动少、毫无保证——Light Reading**
+   - 摘要：* [5G](/wireless/5g)  
+* [人工智能与机器学习](/digital-transformation/ai-machine-learning)  
+* [6G](/wireless/6g)  
+* [半导体](/network-technology/semiconductors)  
+* [新闻](/latest-news)  
+
+# AI-RAN——空谈很多，行动很少，也毫无保障
+
+在Nvidia的GPU问题上，对大多数电信运营商来说，将AI与RAN算力分开可能是最明智的做法。  
+
+[Iain Morris,](/author/iain-morris) 国际编辑，Light Reading  
+2026年3月30日
    - 链接：https://www.lightreading.com/5g/ai-ran-lots-of-talk-little-action-no-guarantees
 
-7. **[Infra & Chips] 硅之主宰：深度解析英伟达4万亿美元AI帝国（2026）——The Chronicle-Journal**
+8. **[Infra & Chips] 硅之主宰：深度剖析Nvidia价值4万亿美元的AI帝国（2026）——《The Chronicle-Journal》**
    - 摘要：* [关于](/site/about.html) * [联系我们](/site/contact.html) * [订阅](/site/forms/subscription_services) * [电子版](http://digital.chroniclejournal.com/publications) [设为首页](/site/make_home_page.html) * [注册](https://www.chroniclejournal.com/users/signup/?referer_url=/) * [登录](https://www.chroniclejournal.com/users/login/?referer_url=/) * [控制面板](https://www.chroniclejournal.com/users/admin/) * 退出登录 * + 我的账户 +
    - 链接：http://markets.chroniclejournal.com/chroniclejournal/article/finterra-2026-3-30-the-sovereign-of-silicon-a-deep-dive-into-nvidias-4-trillion-ai-empire-2026
 
-8. **[AI Product] AKA Foods将人工智能引入产品开发——Food Business News**
-   - 摘要：[跳转到内容](#skip-target) [免费订阅](https://sos.dragonforms.com/SOS108_FBN_profile?pk=HeaderLink) [立即订阅](/subscriptions) [首页](/) » AKA Foods 将 AI 引入产品开发
+9. **[AI Product] AKA Foods将人工智能引入产品开发——《Food Business News》**
+   - 摘要：[跳转至内容](#skip-target) [免费订阅](https://sos.dragonforms.com/SOS108_FBN_profile?pk=HeaderLink) [立即订阅](/subscriptions) [首页](/) » AKA Foods 将 AI 引入产品开发
 
 # AKA Foods 将 AI 引入产品开发
 
-2026年3月30日  
+2026.03.30  
 作者：[Will Newton](/authors/118-will-newton)  
 [在 Google 上添加为首选来源](https://www.google.com/preferences/source?q=foodbusinessnews.net&location=article_header)
 
-荷兰阿姆斯特尔芬
+阿姆斯特尔芬，NETHE
    - 链接：https://www.foodbusinessnews.net/articles/30067-aka-foods-brings-ai-to-product-development
 
-9. **[Infra & Chips] 风投继续涌入AI推理芯片初创公司 - pitchbook.com**
-   - 摘要：AI 与机器学习
-
-# 风投继续涌入 AI 推理芯片初创公司
-
-## 专注于 AI 工作负载的芯片初创公司，正成为新的“经常性收入”业务。
-
-韩国芯片制造商 [Rebellions](https://pitchbook.com/profiles/company/454235-23) 至少是 2026 年迄今第九家宣布获得新融资、专注于 AI 推理的公司，风投（VC）仍在持续涌入这一赛道。投资者的兴趣在很大程度上由一个简单论点驱动：随着 AI 迈向
+10. **[Infra & Chips] 风险投资机构继续涌入AI推理芯片初创公司 - pitchbook.com**
+   - 摘要：AI 与机器学习 # 风投继续涌入 AI 推理芯片初创公司 ## 专注于 AI 工作负载的芯片初创公司，正成为新的“经常性收入”生意。  
+韩国芯片制造商 [Rebellions](https://pitchbook.com/profiles/company/454235-23) 是到 2026 年目前为止至少第九家宣布获得新融资的 AI 推理专业公司，风投仍在持续加码这一赛道。投资者的兴趣主要由一个简单的逻辑驱动：随着 AI 的发展…
    - 链接：https://pitchbook.com/news/articles/vcs-continue-to-pile-into-ai-inference-chip-startups
 
-10. **[Infra & Chips] Mistral AI raises $830M in debt to set up a data center near Paris - TechCrunch**
+11. **[Infra & Chips] Mistral AI raises $830M in debt to set up a data center near Paris - TechCrunch**
    - 摘要：### Topics [Biotech & Health](/category/biotech-health/) [Cloud Computing](/tag/cloud-computing/) [Commerce](/category/commerce/) [Crypto](/category/cryptocurrency/) [Enterprise](/category/enterprise/) [EVs](/tag/evs/) [Fintech](/category/fintech/) [Fundraising](/category/fundraising/) [Gadgets](/category/gadgets/) [Gaming](/category/gaming/) [Google](/tag/google/) [Government & Policy](/category/government-policy/) [Hardware](/category/hardware/) [Instagram](/tag/instagram/) [Layoffs](/tag/layoffs/) [Media & Entertainment](/category/media-entertainment/) [Meta](/tag/meta/) [Microsoft](/tag/microsoft/) [Privacy](/category/privacy/) [Robotics](/category/robotics/) [Security](/category/security/) [Social](/category/social/) [Space](/category/space/) [Startups](/category/startups/) [TikTok](/tag/tiktok/) [Transportation](/category/transportation/) [Venture](/category/venture/) ### More from TechCrunch [Staff](/about-techcrunch/) [Events](/events/) [Startup Battlefield](/startup-battlefield/) [StrictlyVC](https://strictlyvc.com/) [Newsletters](/newsletters/) [Podcasts](/podcasts/) [Videos](/video/) [Partner Content](/sponsored/) [TechCrunch Brand Studio](/brand-studio/) [Crunchboard](https://www.crunchboard.com/) [Contact Us](/contact-us/) In Brief Posted: * [Ivan Mehta](https://techcrunch.com/author/ivan-mehta/) # Mistral AI raises $830M in debt to set up a data center near Paris French lab Mistral AI has raised $830 million in debt to build a new data center near Paris that will be powered by Nvidia chips, according to reports from [Reuters](https://www.reuters.com/business/finance/frances-mistral-raises-830-million-debt-ai-data-centre-build-up-2026-03-30/) and [CNBC](https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html). Mistral first announced plans to build [a data center last year](https://www.bloomberg.com/news/articles/2025-02-10/mistral-ceo-plans-to-raise-more-funds-to-back-ai-data-center), when its CEO Arthur Mensch said it would explore different financing options in February 2025. It plans to complete building the data center in Bruyeres-le-Chatel and make it operational in the second quarter of 2026, Reuters reported on Monday. Mistral did not immediately return a request seeking confirmation. Last month, the company said it would invest [$1.4 billion in Sweden](https://www.cnbc.com/2026/02/11/mistral-ai-infrastructure-sweden.html) to build out AI infrastructure, including data centers. Mistral said it aims to deploy 200 megawatts of compute capacity across Europe by 2027. “Scaling our infrastructure in Europe is critical to empower our customers and to ensure AI innovation and autonomy remain at the heart of Europe. We will continue to invest in this area, given the surging and sustained demand from governments, enterprises, and research institutions seeking to build their own customized AI environment, rather than depend on third-party cloud providers,” Mensch said in a statement to CNBC. Mistral has raised over €2.8 billion ($3.1 billion) in funding to date from investors including General Catalyst, ASML, a16z, Lightspeed, and DST Global, according to data from Crunchbase. Techcrunch event ### Disrupt 2026: The tech ecosystem, all in one room #### *Your next round. Your next hire. Your next breakout opportunity.* Find it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech leaders gather for three days of 250+ tactical sessions, powerful introductions, and market-defining innovation. Register now to save up to $400. ### Save up to $300 or 30% to TechCrunch Founder Summit #### 1,000+ **founders** and investors come together at **TechCrunch Founder Summit 2026** for a full day focused on growth, execution, and real-world scaling. Learn from founders and investors who have shaped the industry. Connect with peers navigating similar growth stages. Walk away with tactics you can apply immediately Offer ends March 13. San Francisco, CA | October 13-15, 2026 [REGISTER ...
    - 链接：https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/
 
-11. **[AI Agents] IAB Recognizes Future Video Outcomes From Agentic 03/31/2026 - MediaPost**
+12. **[AI Agents] IAB Recognizes Future Video Outcomes From Agentic 03/31/2026 - MediaPost**
    - 摘要：#### While other MediaPost newsletters and articles remain free to all ... our new Research Intelligencer service is reserved for paid subscribers ... Subscribe today to gain access to every *Research Intelligencer* article we publish as well as the exclusive daily newsletter, full access to *The MediaPost Cases*, first-look research and daily insights from Joe Mandese, Editor in Chief. [Become a subscriber today!](/subscribe/None/) # Become a free MediaPost member now to read this article * Unlimited articles every day * Keep up-to-date with media, marketing and advertising news * Invitations to exclusive industry events and research Subscribe to *MediaDailyNews* # IAB Recognizes Future Video Outcomes From Agentic * by [Laurie Sullivan](/publications/author/2023/laurie-sullivan/) , 6 minutes ago The Interactive Advertising Bureau (IAB) has released a whitepaper exploring autonomous AI systems that have begun to reshape how video is planned, optimized, measured, and created. "AI-Powered Video Outcomes: Agentic AI" outlines the future of performance and tools such as standardized measurement, clear guardrails for autonomous execution, and greater transparency into how AI-driven decisions are made. Autonomous decisions, measurement and attribution, creative, and privacy are all aimed at helping move agentic AI from an experimental to operational. Although some forms of AI have dominated projects for years, agentic has just begun to make an impact because it can monitor and change performance in real-time. The IAB found it important to note the infrastructure is still being built, and true autonomous media processes are an estimated to be a year or two away. advertisement advertisement One of the biggest changes is with measurement, which will become active, not passive. Nearly 70% of analytics teams have already begun to scale AI. Without transparency into how decisions are made, trust in outcomes is at risk. Measurement and attribution continue to shift video from static, retrospective reporting to a dynamic and continuously “learning system” that uses and compares data and methods such as multitouch attribution, marketing mix modeling (MMM), incrementality testing, and clean room analysis across digital video environments. The whitepaper released today points to the IAB State of Data 2026: The AI Powered Measurement Transformation, where it states 69% of analytics teams are now integrating and scaling AI processes, leading adoption across agencies, and 44% are actively implementing agent-based platforms. AI can validate signals, normalize disparate data inputs, flag inconsistencies, and reduce reporting discrepancies across CTV, OLV, social and FAST. As AI continues to move from a media that recommends executing tasks, it shifts control of planning, buying, and optimization from humans to machines. Rather than rely on static rules or changes, AI agents reevaluate tasks and performance signals like attention, reach, frequency, and outcomes within milliseconds of making real-time decisions. Changes that optimize for performance are done to meet goals across connected TV (CTV), streaming, and digital video. Scaled full automation is still a ways off, the optimization layers being implemented by agencies and demand side platforms (DSPs) can automatically optimize toward key performance indicators such as conversions, CPA, and return on investments, according to the whitepaper. Media buys, performance, and creation in the future will become autonomous across a fragmented digital video supply chain, according to the IAB, which is why media budgets will shift faster and outcomes will become more performance driven. As the IAB states, these agents will make decisions, analyze options, and actively make choices before ultimately taking actions. They will do it with preset parameters and guardrails. Advertising agents that sell space, time, and media will interpret briefs, determine video strategies, select inventory, and generate full ...
    - 链接：https://www.mediapost.com/publications/article/413943/iab-recognizes-future-video-outcomes-from-agentic.html
 
-12. **[AI Product] Self-Driving Networks Automate Enterprise Network Operations - Let's Data Science**
-   - 摘要：[Skip to content](#main-content) [LDS Let's Data Science Learn • Practice • Excel](/) [Sign in](/login?redirect=%2Fnews%2Fself-driving-networks-automate-enterprise-network-operations-d663695a) FOUNDING MEMBER SALE $3.99/mo 1,500+ Questions · 15 Domains · Unlimited Audio 994 spots left [Claim Your Spot](/pricing) Industry News network automation closed loop automation hpe edge computing # Self-Driving Networks Automate Enterprise Network Operations theregister.com | 7.0 Relevance Score Enterprise networking vendors and operators are adopting self-driving networks—infrastructure that embeds AI to detect, reason, and act autonomously, the article reports on March 30, 2026. It highlights platforms like HPE Mist AI and GreenLake Intelligence that combine machine learning, generative agents, and closed-loop automation to predict and fix issues, reduce operational overhead, and improve stability for hospitals, retail, and campuses. ## Scoring Rationale Scores well for industry-wide scope and direct relevance to enterprise networking; includes concrete vendor examples boosting credibility. Marked down for limited novelty and promotional, vendor-sponsored framing, so the net impact is notable but not groundbreaking. Practice interview problems based on real data 1,500+ SQL & Python problems across 15 industry datasets — the exact type of data you work with. [Try 250 free problems](/problems) Free Career Roadmaps 8 PATHS Step-by-step roadmaps from zero to job-ready — curated courses, salary data, and the exact learning order that gets you hired. [Data Analyst $95K](/learn/paths/data-analyst) [Data Scientist $130K](/learn/paths/data-scientist) [ML Engineer $155K](/learn/paths/ml-engineer) [AI Engineer $160K](/learn/paths/ai-engineer) [Data Engineer $140K](/learn/paths/data-engineer) [Analytics Eng. $140K](/learn/paths/analytics-engineer) [MLOps Engineer $160K](/learn/paths/mlops-engineer) [Quant Analyst $175K](/learn/paths/quant-analyst) [Explore all career paths](/learn/paths) FOUNDING MEMBER SALE $9.99/mo $3.99 /mo Save 60% — Limited Time [Claim Founding Member Price](/pricing) Cancel anytime ## Sources * Explainer: Self-driving networks theregister.com [Read Original](https://www.theregister.com/2026/03/30/explainer_selfdriving_networks/) Share ## More AI & Data Science News [7.9 17m ago ### Trulioo CTO Advocates Intelligent Onboarding Balance](/news/trulioo-cto-advocates-intelligent-onboarding-balance-0dd15841) [8.2 18m ago ### Enterprises Adopt Agentic AI With Oversight](/news/enterprises-adopt-agentic-ai-with-oversight-de320daf) [4.0 18m ago ### TravelingWiki Organizes Free Cards Charity Event](/news/travelingwiki-organizes-free-cards-charity-event-c7eb2391) [7.9 29m ago ### Microsoft Fabric Reshapes Unified Data Platforms](/news/microsoft-fabric-reshapes-unified-data-platforms-75c6b7f3) [View All News](/news) [Back to News Feed](/news)
-   - 链接：https://letsdatascience.com/news/self-driving-networks-automate-enterprise-network-operations-d663695a
-
 ## AI Agents（8）
 
-1. **英伟达的黄仁勋表示：“我们已经实现了AGI。”但没有人能就AGI究竟意味着什么达成共识。 - fortune.com**
-   - 摘要：* [财富500强](/section/fortune-500/) [AI](/section/artificial-intelligence/)[智能](/tag/intelligence/)
+1. **英伟达的黄仁勋称：“我们已经实现了AGI。”但没有人能就AGI究竟意味着什么达成一致。——fortune.com**
+   - 摘要：* [《财富》500强](/section/fortune-500/) [AI](/section/artificial-intelligence/)[智能](/tag/intelligence/)
 
-# 英伟达的 Jensen Huang 表示：“我们已经实现了 AGI。”但没有人能就这究竟意味着什么达成一致。为什么科技领域最重要的术语仍在激烈争论中。
-
-作者：[Jeremy Kahn](/author/jeremy-kahn/)  
-Jeremy Kahn，AI 编辑
+# Nvidia 的 Jensen Huang 表示“我们已经实现了 AGI。”但没有人能就这到底意味着什么达成一致。为何科技领域最重要的术语仍在激烈争论中。
 
 作者：[Jeremy Kahn](/author/jeremy-kahn/)  
 Jeremy Kahn，AI 编辑
 
-2026年3月30日，美国东部时间凌晨3:01
+作者：[Jeremy Kahn](/author/jeremy-kahn/)  
+Jeremy Kahn，AI 编辑
 
-英伟达 CEO Jensen Huang 上周表示，我们
+2026年3月30日，东部时间凌晨3:01
+
+Nvidia 首席执行官 Jensen Huang 上次表示，我们
    - 原文：https://fortune.com/2026/03/30/agi-definition-jensen-huang-lex-fridman-deepmind-turing-text-cognitive-taxonomy/
    - Score：0.89
 
-2. **企业成败得失——代理式 AI 项目的失败与成功、开源与 AI 的较量，以及割裂式客户体验（CX）的隐患 - diginomica**
-   - 摘要：[跳转到搜索](#search-trigger) [跳转到订阅](#site-subscribe__footer) [跳转到主菜单](#diginomicacore-tech-1-toggle) [跳转到页脚](#cookie-settings) [人类智能](/generative-ai-and-diginomica-where-we-stand) [企业洞察](/iot/machine-intelligence-ai) [你的故事库](/your-library)  
-主要内容  
-# 企业的成与败——代理式 AI 项目失败与成功、开源与 AI 的对比，以及 di 的风险
+2. **英国研究人员称，AI 智能体正越来越多地规避安全防护措施——CNET**
+   - 摘要：* [ai 图谱](/ai-atlas/) * [科技](/tech/) * 服务与软件 * [AI](/tech/services-and-software/ai/)
+
+# 英国研究人员称，AI 智能体正越来越多地规避安全防护
+
+助手和机器人比以往任何时候都更会撒谎、作弊和耍心机。
+
+Alex Valdes
+
+Alex Valdes 来自华盛顿州贝尔维尤，多年来一直在互联网内容洪流中持续产出，曾在 MSNBC.com、MSN、Bing、MoneyTalksNews、Tipico 等平台任职。他钦佩
+   - 原文：https://www.cnet.com/tech/services-and-software/ai-agents-are-getting-more-and-more-devious-study-finds/
+   - Score：0.85
+
+3. **企业成败得失——代理式AI项目的失败与成功、开源与AI之争，以及割裂式客户体验的隐患——diginomica**
+   - 摘要：[跳转到搜索](#search-trigger) [跳转到订阅](#site-subscribe__footer) [跳转到主菜单](#diginomicacore-tech-1-toggle) [跳转到页脚](#cookie-settings) [人类智能](/generative-ai-and-diginomica-where-we-stand) [企业洞察](/iot/machine-intelligence-ai) [你的故事库](/your-library) 主要内容 # 企业的成败得失——代理式AI项目的失败与成功、开源与AI之争，以及 di 的风险
    - 原文：https://diginomica.com/enterprise-hits-and-misses-agentic-ai-project-failure-versus-success-open-source-versus-ai-and
    - Score：0.77
 
-3. **AI助手 vs. AI智能体：—— Hospitality Net**
-   - 摘要：阅读时间：[观点文章](/opinion) [综合管理](/general-management)
-
-# AI 助手 vs. AI 智能体：
-## 酒店经营者在打造首位“数字员工”之前需要了解什么
-
-本文解释了 AI 智能体与 AI 助手的区别：AI 智能体能够独立运作以实现目标，这有可能让中小型酒店相较于大型品牌获得竞争优势。
-
-作者：[Ira Vouk](/author/148002468/ira-vouk)，Hospitality Technology and Revenue M
+4. **AI Assistants vs. AI Agents: - Hospitality Net**
+   - 摘要：Reading time: [Opinion Article](/opinion) [General Management](/general-management) # AI Assistants vs. AI Agents: ## What hoteliers need to know before building their first “Digital Employee” The article explains how AI agents differ from assistants by working independently to achieve goals, potentially giving smaller hotels competitive advantages over larger brands. By [Ira Vouk](/author/148002468/ira-vouk), Hospitality Technology and Revenue Management consultant, [Ira Vouk Hospitality 2.0 Consulting](/consultant/17015110/ira-vouk-hospitality-20-consulting) Photo byIra Vouk Hospitality 2.0 Consulting There’s a lot of noise right now around “AI agents.” And if you’ve been nodding along in meetings pretending you fully get the difference between an assistant and an agent… you’re not alone. So let’s simplify this in plain hospitality terms. Because this isn’t just semantics — it’s a fundamental shift in how work gets done in our industry. **99% of people using AI today are still using it as an assistant, tapping into maybe 1% of what AI can actually do.** There’s a massive gap between that and what’s possible with AI agents, and most of it is accessible today without special skills or heavy investment. The small group of people who have learned to integrate agents into their workflows (including yours truly) are already operating at a completely different level — often 10x–100x more productive than everyone else. Same tools. Completely different mindset. The real shift isn’t about using AI more. It’s about using it differently. ### What’s an AI Assistant? (most of us are using this type) An AI assistant is reactive. * You ask → it answers. * You prompt → it generates. * You guide → it follows. Think of tools like ChatGPT, Claude browser version, or Gemini as your very fast, very capable intern who writes emails, summarizes reports, drafts marketing copy, and helps you think — but still needs you to tell it what to do, guide each step, and review everything. It’s the intern that works at lightning speed… but still looks at you after every task like, “What next?” It’s helping you do the work. ### Now: What’s an AI Agent? (1% of humans are using this type) An AI agent is proactive and independent. * You define the goal → it figures out the steps. * You set the outcome → it executes the workflow. Instead of “Write me a sales email,” you say: “Build a pipeline of corporate group leads in San Diego, qualify them, draft outreach, and prepare follow-ups.” And it finds data, connects tools, runs sequences, iterates, and delivers results — without you micromanaging every step. * No “what next?” * No waiting for instructions * No hovering over its shoulder like a very stressed-out supervisor This is not an assistant. This is a junior (sometimes surprisingly competent) team. “This Sounds Expensive and Complicated” - you’ll say. It’s not. You don’t need a dev team, custom software, or a six-figure budget. This has already been productized and democratized by tools like Claude, Perplexity, Zapier, n8n, Manus, and a growing list of hospitality-specific startups. You can literally start today. Not “in six months after IT approves it.” Today. ### How to Build Your First “Agent” (In 10 Minutes) 1. Install Claude on your desktop, sign up for the Pro account ($20/month — less than what you probably spent on coffee this week). You can also try Perplexity Computer or Manus or OpenClaw. 2. Give it a goal: “Build a list of corporate group prospects in San Diego and draft outreach emails.” Ask it what information it needs from you. Let it structure the workflow, suggest tools, and generate outputs. And no, you don’t have to know what tools and skills to connect. It will suggest or just do it all for you. 3. Review the result. 4. If it’s good – automate or repeat. That’s it. You’ve just created your first digital employee. No onboarding packet required. 1. Then scale it. Create one agent for marketing, one for sales, and one for reporting. 2. Once you ...
    - 原文：https://www.hospitalitynet.org/opinion/4131677/ai-assistants-vs-ai-agents
    - Score：0.75
 
-4. **IAB Recognizes Future Video Outcomes From Agentic 03/31/2026 - MediaPost**
+5. **IAB Recognizes Future Video Outcomes From Agentic 03/31/2026 - MediaPost**
    - 摘要：#### While other MediaPost newsletters and articles remain free to all ... our new Research Intelligencer service is reserved for paid subscribers ... Subscribe today to gain access to every *Research Intelligencer* article we publish as well as the exclusive daily newsletter, full access to *The MediaPost Cases*, first-look research and daily insights from Joe Mandese, Editor in Chief. [Become a subscriber today!](/subscribe/None/) # Become a free MediaPost member now to read this article * Unlimited articles every day * Keep up-to-date with media, marketing and advertising news * Invitations to exclusive industry events and research Subscribe to *MediaDailyNews* # IAB Recognizes Future Video Outcomes From Agentic * by [Laurie Sullivan](/publications/author/2023/laurie-sullivan/) , 6 minutes ago The Interactive Advertising Bureau (IAB) has released a whitepaper exploring autonomous AI systems that have begun to reshape how video is planned, optimized, measured, and created. "AI-Powered Video Outcomes: Agentic AI" outlines the future of performance and tools such as standardized measurement, clear guardrails for autonomous execution, and greater transparency into how AI-driven decisions are made. Autonomous decisions, measurement and attribution, creative, and privacy are all aimed at helping move agentic AI from an experimental to operational. Although some forms of AI have dominated projects for years, agentic has just begun to make an impact because it can monitor and change performance in real-time. The IAB found it important to note the infrastructure is still being built, and true autonomous media processes are an estimated to be a year or two away. advertisement advertisement One of the biggest changes is with measurement, which will become active, not passive. Nearly 70% of analytics teams have already begun to scale AI. Without transparency into how decisions are made, trust in outcomes is at risk. Measurement and attribution continue to shift video from static, retrospective reporting to a dynamic and continuously “learning system” that uses and compares data and methods such as multitouch attribution, marketing mix modeling (MMM), incrementality testing, and clean room analysis across digital video environments. The whitepaper released today points to the IAB State of Data 2026: The AI Powered Measurement Transformation, where it states 69% of analytics teams are now integrating and scaling AI processes, leading adoption across agencies, and 44% are actively implementing agent-based platforms. AI can validate signals, normalize disparate data inputs, flag inconsistencies, and reduce reporting discrepancies across CTV, OLV, social and FAST. As AI continues to move from a media that recommends executing tasks, it shifts control of planning, buying, and optimization from humans to machines. Rather than rely on static rules or changes, AI agents reevaluate tasks and performance signals like attention, reach, frequency, and outcomes within milliseconds of making real-time decisions. Changes that optimize for performance are done to meet goals across connected TV (CTV), streaming, and digital video. Scaled full automation is still a ways off, the optimization layers being implemented by agencies and demand side platforms (DSPs) can automatically optimize toward key performance indicators such as conversions, CPA, and return on investments, according to the whitepaper. Media buys, performance, and creation in the future will become autonomous across a fragmented digital video supply chain, according to the IAB, which is why media budgets will shift faster and outcomes will become more performance driven. As the IAB states, these agents will make decisions, analyze options, and actively make choices before ultimately taking actions. They will do it with preset parameters and guardrails. Advertising agents that sell space, time, and media will interpret briefs, determine video strategies, select inventory, and generate full ...
    - 原文：https://www.mediapost.com/publications/article/413943/iab-recognizes-future-video-outcomes-from-agentic.html
    - Score：0.28
 
-5. **Self-Driving Networks Automate Enterprise Network Operations - Let's Data Science**
+6. **Self-Driving Networks Automate Enterprise Network Operations - Let's Data Science**
    - 摘要：[Skip to content](#main-content) [LDS Let's Data Science Learn • Practice • Excel](/) [Sign in](/login?redirect=%2Fnews%2Fself-driving-networks-automate-enterprise-network-operations-d663695a) FOUNDING MEMBER SALE $3.99/mo 1,500+ Questions · 15 Domains · Unlimited Audio 994 spots left [Claim Your Spot](/pricing) Industry News network automation closed loop automation hpe edge computing # Self-Driving Networks Automate Enterprise Network Operations theregister.com | 7.0 Relevance Score Enterprise networking vendors and operators are adopting self-driving networks—infrastructure that embeds AI to detect, reason, and act autonomously, the article reports on March 30, 2026. It highlights platforms like HPE Mist AI and GreenLake Intelligence that combine machine learning, generative agents, and closed-loop automation to predict and fix issues, reduce operational overhead, and improve stability for hospitals, retail, and campuses. ## Scoring Rationale Scores well for industry-wide scope and direct relevance to enterprise networking; includes concrete vendor examples boosting credibility. Marked down for limited novelty and promotional, vendor-sponsored framing, so the net impact is notable but not groundbreaking. Practice interview problems based on real data 1,500+ SQL & Python problems across 15 industry datasets — the exact type of data you work with. [Try 250 free problems](/problems) Free Career Roadmaps 8 PATHS Step-by-step roadmaps from zero to job-ready — curated courses, salary data, and the exact learning order that gets you hired. [Data Analyst $95K](/learn/paths/data-analyst) [Data Scientist $130K](/learn/paths/data-scientist) [ML Engineer $155K](/learn/paths/ml-engineer) [AI Engineer $160K](/learn/paths/ai-engineer) [Data Engineer $140K](/learn/paths/data-engineer) [Analytics Eng. $140K](/learn/paths/analytics-engineer) [MLOps Engineer $160K](/learn/paths/mlops-engineer) [Quant Analyst $175K](/learn/paths/quant-analyst) [Explore all career paths](/learn/paths) FOUNDING MEMBER SALE $9.99/mo $3.99 /mo Save 60% — Limited Time [Claim Founding Member Price](/pricing) Cancel anytime ## Sources * Explainer: Self-driving networks theregister.com [Read Original](https://www.theregister.com/2026/03/30/explainer_selfdriving_networks/) Share ## More AI & Data Science News [7.9 17m ago ### Trulioo CTO Advocates Intelligent Onboarding Balance](/news/trulioo-cto-advocates-intelligent-onboarding-balance-0dd15841) [8.2 18m ago ### Enterprises Adopt Agentic AI With Oversight](/news/enterprises-adopt-agentic-ai-with-oversight-de320daf) [4.0 18m ago ### TravelingWiki Organizes Free Cards Charity Event](/news/travelingwiki-organizes-free-cards-charity-event-c7eb2391) [7.9 29m ago ### Microsoft Fabric Reshapes Unified Data Platforms](/news/microsoft-fabric-reshapes-unified-data-platforms-75c6b7f3) [View All News](/news) [Back to News Feed](/news)
    - 原文：https://letsdatascience.com/news/self-driving-networks-automate-enterprise-network-operations-d663695a
    - Score：0.05
-
-6. **China Reveals 96-Unit Autonomous Drone Swarm Built for 3-Second Kill-Chain Strikes - Indian Defence Review**
-   - 摘要：[Skip to content](#content "Skip to content") [Login](https://indiandefencereview.com/login/) [Subscribe](https://indiandefencereview.com/newsletter/) * [News](https://indiandefencereview.com/category/news/) # China Reveals 96-Unit Autonomous Drone Swarm Built for 3-Second Kill-Chain Strikes • By [Evelyn Hart](https://indiandefencereview.com/author/braman/ "View all posts by Evelyn Hart") • Reading duration : 4 minutes China just showed a drone swarm sequence that starts like a routine test and ends with a chilling display of what these machines can now do. Share on X Send through Whatsapp Copy the link At a test range in China, crews set out **three** targets that looked almost the same. From a distance, the scene did not point to a single obvious threat. Then a launcher vehicle opened, and a formation of small aircraft began to enter the air one after another, turning a static range drill into a tightly timed sequence. The vehicles behind that sequence had already been seen before, but not like this. The **Swarm-2** ground combat vehicle had made its public debut at **Airshow China 2024** in Zhuhai, where it appeared more like a hardware exhibit than a battlefield story. What changed this week was the release of a full-process demonstration that showed how the system was meant to work from launch to target strike. Chinese state media said the setup was part of the domestically developed Atlas drone swarm operations system, a package built around a launch vehicle, a **command vehicle**, and a **support vehicle**. Footage also showed the launcher carrying the logo of **China Electronics Technology Group Corp.**, linking the public demonstration to a major state-owned defense electronics group. Until that point, the most visible details were still about the vehicles themselves rather than what they could do together. ## The Moment Atlas Changed from Concept to Sequence The core reveal came in the way the **Atlas drone swarm** handled the drill. State media said the system carried out coordinated **reconnaissance**, identified the command vehicle among the three targets on its own, launched its drones, and then struck the selected target with precision. That sequence turned the demonstration into more than a launch video, because it showed detection, identification, release, and engagement as one chain. The published numbers were part of the point. A single **Swarm-2** vehicle can carry and launch **48 fixed-wing drones**, while one command vehicle can control up to **96 drones** in a swarm at the same time. The launch mechanism shown in the report released one drone every **three seconds**, a spacing measure meant to keep flight paths separated as the formation built in the air. That pace matters because the Atlas drone swarm is presented as modular rather than fixed to one mission. State media said each drone can carry different payloads, including **electro-optical reconnaissance**, **strike munitions**, and **relay communications** equipment. The launch order can also be changed, so reconnaissance drones can go first, electronic warfare drones can follow, and attack drones can be sent after them depending on the mission plan. ## Nearly 100 Drones with One Operator One of the most striking claims in the reports was about human control. Chinese media said a single operator can manage up to **96 drones**, comparing it to one person flying nearly 100 kites with a single line. The reports added that the drones can form dense patterns quickly and adjust to airflow disturbances while avoiding collisions in flight. That level of control rests on software as much as hardware. According to the report, the system uses **swarm-control algorithms** that give each drone what it described as a “smart brain,” allowing the aircraft to communicate, share information, and adjust position in real time. In practice, that means the Atlas drone swarm is being framed not as a collection of separate aircraft, but as a coordinated network that can ke...
-   - 原文：https://indiandefencereview.com/china-atlas-drone-swarm-96-drone-kill-strikes/
-   - Score：0.04
 
 7. **IAPP GS Day One: OpenAI, Anthropic Attorneys Delve Into the Privacy-Safety Tradeoff in AI - law.com**
    - 摘要：This button clears the current text from the Search Input field. Submit your search query. [Advanced Search](https://www.law.com/search/) Tools [Law.com Compass](https://www.law.com/compass/)[Law.com Radar](https://www.law.com/radar/)[Verdict Search](https://www.law.com/verdictsearch/featured-verdicts/)[Scholar .](https://www.law.com/scholar/)[China Law & Practice](https://www.chinalawandpractice.com/)[Legal Dictionary](https://dictionary.law.com/) Sign in to access your account and subscription This button clears the current text from the Search Input field. Submit your search query. [Advanced Search](https://www.law.com/search/) Tools [Law.com Compass](https://www.law.com/compass/)[Law.com Radar](https://www.law.com/radar/)[Verdict Search](https://www.law.com/verdictsearch/featured-verdicts/)[Scholar .](https://www.law.com/scholar/)[China Law & Practice](https://www.chinalawandpractice.com/)[Legal Dictionary](https://dictionary.law.com/) Loading US... Regions Topics --- Resources Loading Business Of Law... Loading Practice Of Law... Loading... Top News Resources Other [Publication Legaltech News Reporting, and expert analysis of legal technology with a focus onwhat legal departments, law firms, and tech companies need to know](/legaltechnews/) Loading... Surveys & Rankings Market hubs Other [Ranking The 2025 Am Law 100 Rankings The Am Law 100 is the definitive ranking of the 100 largest law firms in the United States.](/americanlawyer/am-law-100/) [Tool Law.com Compass Dynamically explore and compare data on law firms, companies, individual lawyers, and industry trends.](https://www.law.com/compass/) --- [Tool Law.com Radar Real-time alerts on new state and federal litigation, plus unlimited complaint access, expert case summaries and AI-enhanced trend detection.](https://www.law.com/radar/newsfeed/) Loading Events.. Pro Membership Communities Public Notices Resources Click to enter your existing username and password or create a new account. Click to purchase an individual user subscription with your credit card. Related information [News](/news/)Artificial Intelligence # IAPP GS Day One: OpenAI, Anthropic Attorneys Delve Into the Privacy-Safety Tradeoff in AI As privacy professionals see their roles expand to incorporate oversight of AI, their traditional prerogatives are running up against safety and governance concerns. 4 minute readMarch 30, 2026 at 03:43 PM By [Benjamin Joyner](/author/profile/benjamin-joyner/) ## What You Need to Know * Privacy professionals are seeing their roles expand to incorporate safety and governance functions. * AI model developers see an inherent tension between privacy and safety. * Regulations and voluntary standards are struggling to keep up with the pace of change in the software. Page printed from: NOT FOR REPRINT © 2026 ALM Global, LLC, All Rights Reserved. Request academic re-use from [www.copyright.com.](https://www.copyright.com) All other uses, submit a request to [[email protected].](/cdn-cgi/l/email-protection#e3c38290908697ce828d87ce8f8c848cce8f8a80868d908a8d84a3828f8ecd808c8e) For more information visit [Asset & Logo Licensing](/asset-and-logo-licensing/). ## Continue Reading [## Some Federal Judges Are Embracing Gen AI, Though Many Are Split on Its Potential for Courts](/legaltechnews/2026/03/30/some-federal-judges-are-embracing-gen-ai-though-many-are-split-on-its-potential-for-courts/) Rhys Dipshan A survey by Northwestern University found that, despite a lack of widespread AI training, many judges are leveraging gen AI for a handful of use cases, with some even encouraging gen AI use by staff in their chambers. March 30, 2026 [## The $285 Billion Warning: Why Legal Departments Must Move Beyond the Billable Hour Now](/legaltechnews/2026/03/30/the-285-billion-warning-why-legal-departments-must-move-beyond-the-billable-hour-now/) Ken Callander What the collapse of per-seat software pricing means for the future of legal spend. March 30, 2026 [## FOLIO Launches New AI-Powered Tool...
@@ -168,21 +164,22 @@ Jeremy Kahn，AI 编辑
 
 ## LLMs（8）
 
-1. **遗传学研究在发育性髋关节发育不良中发现新基因——《自然》**
-   - 摘要：感谢您访问 nature.com。您当前使用的浏览器版本对 CSS 的支持有限。为获得最佳体验，我们建议您使用更新版本的浏览器（或在 Internet Explorer 中关闭兼容模式）。与此同时，为确保持续支持，我们将以无样式和无 JavaScript 的方式显示本站。  
-* [查看所有期刊](https://www.nature.com/siteindex)  
-* [搜索](#search-menu)  
+1. **遗传学研究发现发育性髋关节发育不良相关新基因——《自然》**
+   - 摘要：感谢您访问 nature.com。您当前使用的浏览器版本对 CSS 的支持有限。为获得最佳体验，我们建议您使用更新的浏览器（或在 Internet Explorer 中关闭兼容模式）。与此同时，为确保持续支持，我们将以无样式和无 JavaScript 的方式显示本网站。
+
+* [查看所有期刊](https://www.nature.com/siteindex)
+* [搜索](#search-menu)
 * [登录](https://idp.nature.com/a)
    - 原文：https://www.nature.com/articles/s41413-026-00514-8
    - Score：0.01
 
-2. **中国制造业活动重回增长，扩张速度创一年来最快——CNBC**
-   - 摘要：[跳转到主内容](#MainContent) [市场](/markets/) * [盘前市场](/pre-markets/) * [美国市场](/us-markets/) * [货币](/currencies/) * [预测市场](/prediction-markets/) * [加密货币](/cryptocurrency/) * [期货与大宗商品](/futures-and-commodities/) * [债券](/bonds/) * [基金与ETF](/funds-and-etfs/) [商业](/business/) * [经济](/economy/) * [金融](/finance/) * [健康与科学](/health-and-science/) * [Me
+2. **中国工厂活动重回增长，扩张速度创下一年来最快——CNBC**
+   - 摘要：[跳过导航](#MainContent) [市场](/markets/) * [盘前市场](/pre-markets/) * [美国市场](/us-markets/) * [货币](/currencies/) * [预测市场](/prediction-markets/) * [加密货币](/cryptocurrency/) * [期货与大宗商品](/futures-and-commodities/) * [债券](/bonds/) * [基金与ETF](/funds-and-etfs/) [商业](/business/) * [经济](/economy/) * [金融](/finance/) * [健康与科学](/health-and-science/) * [Me
    - 原文：https://www.cnbc.com/2026/03/31/china-pmi-data-march-factory-activity-.html
    - Score：0.01
 
-3. **拉塞尔·布兰德强奸案审判推迟至10月——《Variety Australia》**
-   - 摘要：## 可选屏幕阅读器 [切换版本：ANZ 版 / 美国版](#) * [美国版](https://variety.com/) [Variety](/) [登录](https://au.variety.com/wp-login.php?redirect_to=https%3A%2F%2Fau.variety.com%2F2026%2Ftv%2Fglobal%2Frussell-brand-rape-trial-delayed-october-34750) [Variety](/) [加号图标 继续阅读：‘黑袍纠察队’主演 Karl Urban 将在悉尼走红毯](https://au.variety.com/2026/tv/news/karl-urban-the-boys-red-carpet-sydney-34730)
+3. **罗素·布兰德强奸案审判推迟至10月——Variety Australia**
+   - 摘要：## 可选屏幕阅读器 [在 ANZ 版与美国版之间切换](#) * [美国版](https://variety.com/) [Variety](/) [登录](https://au.variety.com/wp-login.php?redirect_to=https%3A%2F%2Fau.variety.com%2F2026%2Ftv%2Fglobal%2Frussell-brand-rape-trial-delayed-october-34750) [Variety](/) [Plus 图标 下一篇阅读：《The Boys》主演 Karl Urban 将在悉尼走红毯](https://au.variety.com/2026/tv/news/karl-urban-the-boys-red-carpet-syd)
    - 原文：https://au.variety.com/2026/tv/global/russell-brand-rape-trial-delayed-october-34750/
    - Score：0.01
 
@@ -213,26 +210,26 @@ Jeremy Kahn，AI 编辑
 
 ## AI Product（8）
 
-1. **前 Coatue 合伙人为一家企业级 AI 智能体初创公司筹集了高达 6500 万美元的种子轮融资——TechCrunch**
-   - 摘要：### 主题 [生物科技与健康](/category/biotech-health/) [云计算](/tag/cloud-computing/) [加密货币](/category/cryptocurrency/) [企业](/category/enterprise/) [电动汽车](/tag/evs/) [金融科技](/category/fintech/) [融资](/category/fundraising/) [电子产品](/category/gadgets/) [游戏](/category/gaming/) [Google](/tag/google/) [政府与政策](/category/government-policy/) [硬件](/category/hardware/) [Instagram](/tag/instagram/)
+1. **前 Coatue 合伙人为一家企业级 AI 智能体初创公司筹集了高达 6500 万美元的巨额种子轮融资 - TechCrunch**
+   - 摘要：### 话题 [生物科技与健康](/category/biotech-health/) [云计算](/tag/cloud-computing/) [加密货币](/category/cryptocurrency/) [企业](/category/enterprise/) [电动汽车](/tag/evs/) [金融科技](/category/fintech/) [融资](/category/fundraising/) [电子产品](/category/gadgets/) [游戏](/category/gaming/) [Google](/tag/google/) [政府与政策](/category/government-policy/) [硬件](/category/hardware/) [Instagram](/tag/instagram/)
    - 原文：https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/
    - Score：0.99
 
-2. **企业成败得失——代理型AI项目的失败与成功、开源与AI之争，以及割裂式客户体验的隐患——diginomica**
-   - 摘要：[跳至搜索](#search-trigger) [跳至订阅](#site-subscribe__footer) [跳至主菜单](#diginomicacore-tech-1-toggle) [跳至页脚](#cookie-settings) [人类智能](/generative-ai-and-diginomica-where-we-stand) [企业洞察](/iot/machine-intelligence-ai) [你的故事库](/your-library) 正文 # 企业的成与败——agentic AI 项目的失败与成功，开源与 AI 的较量，以及 di 的风险
+2. **企业的得与失——代理式AI项目的失败与成功、开源与AI之争，以及割裂式客户体验（CX）的隐患——diginomica**
+   - 摘要：[跳转到搜索](#search-trigger) [跳转到订阅](#site-subscribe__footer) [跳转到主菜单](#diginomicacore-tech-1-toggle) [跳转到页脚](#cookie-settings) [人类智能](/generative-ai-and-diginomica-where-we-stand) [企业洞察](/iot/machine-intelligence-ai) [你的故事库](/your-library) 主要内容 # 企业的成败得失——代理式 AI 项目的失败与成功，开源与 AI 之争，以及 di 的风险
    - 原文：https://diginomica.com/enterprise-hits-and-misses-agentic-ai-project-failure-versus-success-open-source-versus-ai-and
    - Score：0.73
 
-3. **AKA Foods将人工智能引入产品开发——Food Business News**
-   - 摘要：[跳转到内容](#skip-target) [免费订阅](https://sos.dragonforms.com/SOS108_FBN_profile?pk=HeaderLink) [立即订阅](/subscriptions) [首页](/) » AKA Foods 将 AI 引入产品开发
+3. **AKA Foods将人工智能引入产品开发——《Food Business News》**
+   - 摘要：[跳转至内容](#skip-target) [免费订阅](https://sos.dragonforms.com/SOS108_FBN_profile?pk=HeaderLink) [立即订阅](/subscriptions) [首页](/) » AKA Foods 将 AI 引入产品开发
 
 # AKA Foods 将 AI 引入产品开发
 
-2026年3月30日  
+2026.03.30  
 作者：[Will Newton](/authors/118-will-newton)  
 [在 Google 上添加为首选来源](https://www.google.com/preferences/source?q=foodbusinessnews.net&location=article_header)
 
-荷兰阿姆斯特尔芬
+阿姆斯特尔芬，NETHE
    - 原文：https://www.foodbusinessnews.net/articles/30067-aka-foods-brings-ai-to-product-development
    - Score：0.42
 
@@ -268,32 +265,25 @@ Jeremy Kahn，AI 编辑
 
 ### [Digital Future Daily](https://www.politico.com/newsletters/digital-future-daily) 下一波技术浪潮如何颠覆全球经济及其权力结构
 
-注册即表示您确认并同意我们的[隐私政策](https://www.politico.com/privacy)以及
+注册即表示您已知悉并同意我们的[隐私政策](https://www.politico.com/privacy)以及
    - 原文：https://www.politico.com/newsletters/digital-future-daily/2026/03/30/chinas-open-approach-is-reshaping-the-ai-race-00850392
    - Score：0.22
 
-2. **OpenAI因危害问题关闭了Sora——Zamin.uz**
-   - 摘要：* [乌兹别克斯坦](https://zamin.uz/en/uzbekistan/)
-* [世界](https://zamin.uz/en/world/)
-* [社会](https://zamin.uz/en/society/)
-* [科技](https://zamin.uz/en/technology/)
-* [体育](https://zamin.uz/en/sport/)
-* [汽车](https://zamin.uz/en/auto/)
-* [文化](https://zamin.uz/en/culture/)
-* [经济](https://zamin.uz/en/economy/)
+2. **OpenAI因存在危害关闭了Sora——Zamin.uz**
+   - 摘要：* [乌兹别克斯坦](https://zamin.uz/en/uzbekistan/)  
+* [世界](https://zamin.uz/en/world/)  
+* [社会](https://zamin.uz/en/society/)  
+* [科技](https://zamin.uz/en/technology/)  
+* [体育](https://zamin.uz/en/sport/)  
+* [汽车](https://zamin.uz/en/auto/)  
+* [文化](https://zamin.uz/en/culture/)  
+* [经济](https://zamin.uz/en/economy/)  
 * [Google](https://accounts.google.com/o/oauth2/auth?client_id=23472018477-l2fj5oud1mtgop8spfj145khvboo8oju.apps.goo)
    - 原文：https://zamin.uz/en/technology/195537-openai-closed-sora-over-harm.html
    - Score：0.17
 
-3. **别对任何 AI 应用太依恋 —— Gizmodo**
-   - 摘要：[跳转到内容](#main) [人工智能](https://gizmodo.com/tech/artificial-intelligence) # 别对任何 AI 应用投入太深感情
-
-算力是有限资源。  
-作者：[AJ Dellinger](https://gizmodo.com/author/ajdellinger1)  
-阅读时长 2 分钟  
-[评论（0）](https://gizmodo.com/dont-get-too-attached-to-any-ai-app-2000739907#comments)
-
-去年秋天，看起来视频生成模型 Sora 将成为 OpenAI 的下一个重头产品。上周
+3. **别对任何 AI 应用过于依赖 —— Gizmodo**
+   - 摘要：[跳转到内容](#main) [人工智能](https://gizmodo.com/tech/artificial-intelligence) # 别对任何 AI 应用投入太多感情 算力是有限资源。 作者：[AJ Dellinger](https://gizmodo.com/author/ajdellinger1) 阅读时长 2 分钟 [评论（0）](https://gizmodo.com/dont-get-too-attached-to-any-ai-app-2000739907#comments) 去年秋天，Sora 这个视频生成模型看起来会成为 OpenAI 的下一个重磅产品。上周
    - 原文：https://gizmodo.com/dont-get-too-attached-to-any-ai-app-2000739907
    - Score：0.10
 
@@ -324,24 +314,30 @@ Jeremy Kahn，AI 编辑
 
 ## Infra & Chips（7）
 
-1. **AI-RAN——空谈多、行动少、毫无保障——Light Reading**
-   - 摘要：* [5G](/wireless/5g) * [AI 与机器学习](/digital-transformation/ai-machine-learning) * [6G](/wireless/6g) * [半导体](/network-technology/semiconductors) * [新闻](/latest-news) # AI-RAN——高谈阔论多，实际行动少，毫无保证 在 Nvidia 的 GPU 问题上，对大多数电信运营商来说，将 AI 与 RAN 计算分开可能是最明智的做法。 [Iain Morris,](/author/iain-morris)国际编辑，Light Reading 202 年 3 月 30 日
+1. **AI-RAN——空谈多、行动少、毫无保证——Light Reading**
+   - 摘要：* [5G](/wireless/5g)  
+* [人工智能与机器学习](/digital-transformation/ai-machine-learning)  
+* [6G](/wireless/6g)  
+* [半导体](/network-technology/semiconductors)  
+* [新闻](/latest-news)  
+
+# AI-RAN——空谈很多，行动很少，也毫无保障
+
+在Nvidia的GPU问题上，对大多数电信运营商来说，将AI与RAN算力分开可能是最明智的做法。  
+
+[Iain Morris,](/author/iain-morris) 国际编辑，Light Reading  
+2026年3月30日
    - 原文：https://www.lightreading.com/5g/ai-ran-lots-of-talk-little-action-no-guarantees
    - Score：0.50
 
-2. **硅之主宰：深度解析英伟达4万亿美元AI帝国（2026）——The Chronicle-Journal**
+2. **硅之主宰：深度剖析Nvidia价值4万亿美元的AI帝国（2026）——《The Chronicle-Journal》**
    - 摘要：* [关于](/site/about.html) * [联系我们](/site/contact.html) * [订阅](/site/forms/subscription_services) * [电子版](http://digital.chroniclejournal.com/publications) [设为首页](/site/make_home_page.html) * [注册](https://www.chroniclejournal.com/users/signup/?referer_url=/) * [登录](https://www.chroniclejournal.com/users/login/?referer_url=/) * [控制面板](https://www.chroniclejournal.com/users/admin/) * 退出登录 * + 我的账户 +
    - 原文：http://markets.chroniclejournal.com/chroniclejournal/article/finterra-2026-3-30-the-sovereign-of-silicon-a-deep-dive-into-nvidias-4-trillion-ai-empire-2026
    - Score：0.49
 
-3. **风投继续涌入AI推理芯片初创公司 - pitchbook.com**
-   - 摘要：AI 与机器学习
-
-# 风投继续涌入 AI 推理芯片初创公司
-
-## 专注于 AI 工作负载的芯片初创公司，正成为新的“经常性收入”业务。
-
-韩国芯片制造商 [Rebellions](https://pitchbook.com/profiles/company/454235-23) 至少是 2026 年迄今第九家宣布获得新融资、专注于 AI 推理的公司，风投（VC）仍在持续涌入这一赛道。投资者的兴趣在很大程度上由一个简单论点驱动：随着 AI 迈向
+3. **风险投资机构继续涌入AI推理芯片初创公司 - pitchbook.com**
+   - 摘要：AI 与机器学习 # 风投继续涌入 AI 推理芯片初创公司 ## 专注于 AI 工作负载的芯片初创公司，正成为新的“经常性收入”生意。  
+韩国芯片制造商 [Rebellions](https://pitchbook.com/profiles/company/454235-23) 是到 2026 年目前为止至少第九家宣布获得新融资的 AI 推理专业公司，风投仍在持续加码这一赛道。投资者的兴趣主要由一个简单的逻辑驱动：随着 AI 的发展…
    - 原文：https://pitchbook.com/news/articles/vcs-continue-to-pile-into-ai-inference-chip-startups
    - Score：0.33
 
