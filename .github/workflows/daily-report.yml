@@ -2,8 +2,13 @@ name: Daily AI News Report
 
 on:
   schedule:
-    - cron: '0 0 * * *' # 08:00 Asia/Shanghai
+    - cron: '0 0 * * *' # 08:00 Asia/Shanghai (primary)
+    - cron: '5 0 * * *' # 08:05 Asia/Shanghai (fallback)
   workflow_dispatch:
+
+concurrency:
+  group: daily-report-${{ github.ref }}
+  cancel-in-progress: true
 
 permissions:
   contents: write
