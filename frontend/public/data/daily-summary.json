@@ -1,6 +1,6 @@
 {
   "date" : "2026-08-07",
-  "generatedAt" : "2026-08-07T10:21:41.604007472+08:00",
+  "generatedAt" : "2026-08-07T10:46:28.215307640+08:00",
   "summaryZh" : "请基于以下新闻标题生成中文日报总览（200-300字，分点）:\n[LLMs] Hardware-aware framework accelerates large language models without additional training\n[Infra & Chips] The Australian data centre boom: AI-optimised facilities, neocloud counterparties and the limits of conventional bankability\n[Infra & Chips] Generative AI Market Set to Reach $1,658.97 Billion by 2033 Amid Rising AI Infrastructure Investments | Report by MarketsandMarkets\n[Infra & Chips] Zayo Teams With NVIDIA To Build 8,000 Miles Of Fiber For AI Infrastructure\n[Infra & Chips] Sharon AI Books $373M Deal and Discloses $8.8B in ...\n[Infra & Chips] Nvidia stock surges 3.4% as AMD stumbles on earnings\n[LLMs] Meta’s Muse Spark 1.1 hacked an external organization during cybersecurity test\n[LLMs] Claude is affecting my sleep｜Theo - t3.gg - BigGo Finance\n[AI Agents] Why Rubrik (RBRK) Is Up 17.9% After Launching AI Agent Identity Controls For Cyber Resilience - Simply Wall St News\n[Infra & Chips] Mirendil Selects Google Cloud AI Hypercomputer For TPU And NVIDIA GPU Training Infrastructure\n[Open Source AI] Why Every AI Company Depends on Open Source | Inferact with a16z｜a16z — BigGo Finance\n[Infra & Chips] AMD deepens AI inference bet with Taalas deal as chip ...",
   "highlights" : [ {
     "category" : "LLMs",
