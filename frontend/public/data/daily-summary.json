@@ -1,6 +1,6 @@
 {
   "date" : "2026-08-15",
-  "generatedAt" : "2026-08-15T08:52:24.722736673+08:00",
+  "generatedAt" : "2026-08-15T09:21:09.995132413+08:00",
   "summaryZh" : "请基于以下新闻标题生成中文日报总览（200-300字，分点）:\n[LLMs] Z.ai debuts GLM-5.3 with long-horizon coding, cybersecurity upgrades - SiliconANGLE\n[LLMs] Upstage Solar Pro 4: First Korean on OpenRouter\n[AI Agents] Anthropic’s Multi-Agent Research and Watermarking Policy Spark Debate Among AI Researchers and Users\n[LLMs] Z.ai to Rival Anthropic, OpenAI in Coding With New AI Model\n[LLMs] Zhipu's new AI model takes aim at OpenAI, Anthropic in ...\n[AI Agents] Anthropic Claude Agents Wage Malware 'Turf War'\n[AI Agents] Iyuno Details the Architecture Behind CLOE, a Multi-Agent AI System for Consistent Content Workflows\n[LLMs] Zhipu AI Releases GLM-5.3: Coding Capability Jumps 50 ...\n[Infra & Chips] Zayo, Nvidia expand fiber capacity for AI infrastructure\n[Infra & Chips] Nvidia's $500B AI Infrastructure Funding Shifts Bottleneck ...\n[AI Agents] Anthropic Identifies Trust, Deception, and Collusion Issues in Multi-Agent AI Systems\n[Infra & Chips] L&T to Build India's Largest Nvidia B300 AI Factory",
   "highlights" : [ {
     "category" : "LLMs",
