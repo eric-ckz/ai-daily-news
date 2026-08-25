@@ -1,6 +1,6 @@
 {
   "date" : "2026-08-25",
-  "generatedAt" : "2026-08-25T08:54:15.464800426+08:00",
+  "generatedAt" : "2026-08-25T09:22:19.483582653+08:00",
   "summaryZh" : "请基于以下新闻标题生成中文日报总览（200-300字，分点）:\n[AI Agents] UTA research could improve autonomous vehicle systems - News Center - The University of Texas at Arlington\n[LLMs] Thomson Reuters Launches Thomson, Its Own Proprietary ...\n[LLMs] Thomson Reuters Launches Proprietary LLM Thomson, Updates CoCounsel\n[Infra & Chips] NVIDIA Advances Vera Rubin Inference With New LPX and ...\n[Infra & Chips] NVIDIA Extends Vera Rubin with Groq 3 LPX for AI Agents\n[AI Agents] Only 15% of US Firms Have Scaled Agentic AI, Deloitte Finds\n[Infra & Chips] NVIDIA: Vera Rubin NVL72 Delivers Up To 30x More Agentic AI Throughput Per Megawatt And 35x Lower Token Cost\n[Infra & Chips] Nvidia announces full-scale production of Groq 3 LPX, Vera Rubin’s inference efficiency increases severalfold, SpaceXAI increases investment in agents and space AI | Bitget News\n[LLMs] Who does AI consider an expert? New benchmark shows bias across 22 LLMs\n[Infra & Chips] Nvidia Puts Groq 3 LPX Into Full Production for Agentic AI\n[Open Source AI] Sauce Labs Expands AURA Platform To Support Open Source LLMs\n[Infra & Chips] Nvidia's $20B Groq Bet: New Racks Online by Year-End",
   "highlights" : [ {
     "category" : "AI Agents",
